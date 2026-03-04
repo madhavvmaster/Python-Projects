@@ -40,7 +40,7 @@ class MarketingApp:
     
     def menu(self):
         while True:
-            print("\nWelcome to MASTER MARKETING SYSTEM")
+            print("\n---Welcome to MASTER MARKETING SYSTEM---")
             print("1. Create Campaign")
             print("2. View Campaigns")
             print("3. Update Metrices")
